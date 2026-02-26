@@ -1,0 +1,5 @@
+{
+  "name": "Txartela Autobús Vizcaya",
+  "description": "Herramienta para generar e imprimir tarjetas de identificación de autobús para alumnos del Colegio Vizcaya.",
+  "requestFramePermissions": []
+}

@@ -165,7 +165,7 @@ const BusCardSVG = ({ data }: { data: CardData }) => {
             y="149.35342"
             style={{ fontStyle: 'normal', fontVariant: 'normal', fontWeight: 'bold', fontStretch: 'normal', fontSize: '8px', fontFamily: 'Arial', fill: '#000080' }}
           >
-            Andareño / Maisu
+            Andereño / Maisu
           </tspan>
         </text>
         <text
@@ -367,7 +367,7 @@ export default function App() {
 
               <div className="space-y-1.5">
                 <label className="text-xs font-semibold uppercase tracking-wider text-slate-500 flex items-center gap-1.5">
-                  <UserCheck size={14} /> Andareño / Maisu
+                  <UserCheck size={14} /> Andereño / Maisu
                 </label>
                 <input
                   type="text"
